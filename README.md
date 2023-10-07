@@ -4,12 +4,12 @@ Atom's One Dark theme for Discord.
 ## Installation
 
 ### BetterDiscord
-Download the theme on the [releases page](https://github.com/frolleks/one-dark-discord/releases) and copy the `one-dark-discord.theme.css` file to your BD themes folder.
+Download the theme on the [releases page](https://github.com/GatoVuelta/one-dark-discord/releases) and copy the `one-dark-discord.theme.css` file to your BD themes folder.
 
 ### Powercord, Vizality and Rikka
 Run the following commands in your terminal:
 ```bash
-git clone https://github.com/frolleks/one-dark-discord/
+git clone https://github.com/GatoVuelta/one-dark-discord/
 ```
 on your themes folder.
 
